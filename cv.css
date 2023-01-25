@@ -3,6 +3,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 0;
     margin: 0;
+    overflow:auto 
     
 
 }
@@ -14,10 +15,10 @@ body{
 }
 
 
-.list_v{
+/* .list_v{
     list-style-type: circle;
 }
-
+ */
 .text-bold{
     font-weight: 500;
 }
@@ -41,32 +42,36 @@ body{
     text-align: left;
 }
 
-.Caja-Centro { 
+/* .Caja-Centro { 
     float: left;
     width: 70vw;
     height: auto;
     margin: 50px;  
     padding: 50px;
-    border:lavenderblush; 
+    border:black; 
     display:block;
     
 
 
 
-}
+}*/
 
-.clase{
+/* .clase{
     background-color: white;
     text-align: center;
-}
-
-.seccion{
+} */
+ 
+/* .seccion{
     
     display: inline-block;
     
-}
+} */
 
-.fotocv{
-    float: left;
-}
+/* .fotocv{
+  
+} 
+ */
+.foto {
+    text-align: center;
 
+}
