@@ -10,11 +10,6 @@ body{
     background-image:url("img/background.jpg");
 }
 
-/* .list_v{
-    list-style-type: circle;
-}
- */
-
 .text-bold{
     font-weight: 500;
 }
@@ -37,6 +32,13 @@ body{
 .text-Left{
     text-align: left;
 }
+
+/* .list_v{
+    list-style-type: circle;
+}
+ */
+
+
 
 .Caja-Centro { 
     float: left;
