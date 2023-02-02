@@ -1,24 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 *{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: auto;
-    padding: auto;
-   
-    
-
+    padding: auto;   
 }
-
 
 body{
     background-image:url("img/background.jpg");
-
 }
-
 
 /* .list_v{
     list-style-type: circle;
 }
  */
+
 .text-bold{
     font-weight: 500;
 }
@@ -42,19 +38,14 @@ body{
     text-align: left;
 }
 
- .Caja-Centro { 
+.Caja-Centro { 
     float: left;
     width: auto;
     height: auto;
     margin: 50px;  
     padding: 50px;  
     border: black;
-   
-    
-    
-
-
-
+    position:relative;
 }
 
 .clase{
@@ -62,13 +53,17 @@ body{
     text-align: center;
 } 
  
- .seccion{
-    
-    display: inline-block;
-    
+.seccion{
+    display: inline-block;  
 } 
 
 .foto {
     text-align: center;
+}
 
+.footer_dis{
+    background-color: white;
+    position:absolute;
+    width: 100vw;
+    bottom: 0;
 }
