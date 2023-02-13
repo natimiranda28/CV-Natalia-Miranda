@@ -40,7 +40,7 @@ body{
 
 
 
-.Caja-Centro { 
+/* .Caja-Centro { 
     float: left;
     width: auto;
     height: auto;
@@ -48,7 +48,7 @@ body{
     padding: 50px;  
     border: black;
     position:relative;
-}
+} */
 
 .clase{
     background-color: white;
