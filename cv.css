@@ -9,6 +9,9 @@
 body{
     background-image:url("img/background.jpg");
 }
+ul{
+    list-style: none;
+}
 
 .text-bold{
     font-weight: 500;
@@ -75,7 +78,38 @@ body{
 
 }
 
-
+/*templates por filas y columnas*/
 .grid-template-columns-row{
+    grid-template-columns: 100px 400px;
+    grid-template-rows: 200px 200px 100px;
+
+
     
 }
+
+.template-areas{
+
+}
+
+#botonera{
+
+}
+#centro{
+    
+}
+
+/*.contenedor-final{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+}
+
+.divuno{
+    background-color: grey;
+    width: 25vw;
+}
+
+.divdos{
+    background-color: lightgreen;
+    width: 75vw;
+}*/
