@@ -13,14 +13,6 @@ ul{
     list-style: none;
 }
 
-.text-bold{
-    font-weight: 500;
-}
-
-.text-light{
-    font-weight: 300;
-}
-
 .text-Regular{
     font-weight: 400;
 }
@@ -35,21 +27,6 @@ ul{
 .text-Left{
     text-align: left;
 }
-
-/* .list_v{
-    list-style-type: circle;
-}
-*/
-
-/* .Caja-Centro { 
-    float: left;
-    width: auto;
-    height: auto;
-    margin: 50px;  
-    padding: 50px;  
-    border: black;
-    position:relative;
-} */
 
 .clase{
     background-color: white;
@@ -77,13 +54,6 @@ ul{
     width: 99%;
     display: grid;
 }
-
-/*.container {
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
-  }
-*/
 
 .contenedor-final{
     display: flex;
