@@ -108,3 +108,9 @@ footer h1{
     display: inline-block;
     margin: 0 10px;
 }
+
+.newForm{
+    height: auto;
+    background-color: lightpink;
+    text-align: center;
+}
